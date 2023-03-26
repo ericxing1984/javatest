@@ -9,7 +9,7 @@ class Event {
 
 }
 
-//version1
+//version2
 
 class EventManage {
     List<Event> eventList = new ArrayList<Event>();
